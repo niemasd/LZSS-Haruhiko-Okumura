@@ -1,2 +1,13 @@
 # LZSS-Haruhiko-Okumura
-Haruhiko Okumura's "LZSS.C -- A Data Compression Program"
+Mirror of Haruhiko Okumura's "LZSS.C -- A Data Compression Program"
+
+## License (from [`lzss.c`](lzss.c))
+
+```
+4/6/1989 Haruhiko Okumura
+Use, distribute, and modify this program freely.
+Please send me your improved versions.
+        PC-VAN          SCIENCE
+        NIFTY-Serve     PAF01022
+        CompuServe      74050,1022
+```
