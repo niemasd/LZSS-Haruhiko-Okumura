@@ -1,7 +1,7 @@
 # LZSS-Haruhiko-Okumura
 Mirror of Haruhiko Okumura's "LZSS.C -- A Data Compression Program"
 
-## License (from [`lzss.c`](lzss.c#L1-L11))
+## License (from [`lzss.c`](lzss.c#L5-L10))
 
 ```
 4/6/1989 Haruhiko Okumura
